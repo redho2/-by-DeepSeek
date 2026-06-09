@@ -33,7 +33,7 @@
 
 游戏已部署在 GitHub Pages，点击下方链接即可直接游玩：
 
-👉 **[开始游戏](https://你的用户名.github.io/sand-tetris/)**  
+👉 **[开始游戏](https://redho2.github.io/sand-tetris/)**  
 
 ---
 2. 直接用浏览器打开 index.html 即可开始游戏。
